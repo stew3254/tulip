@@ -1,5 +1,5 @@
 # Tulip
-A Turing machine and Language for it in Lua
+A Virtual machine and Language for it in Lua
 
 ## Documentation
 
