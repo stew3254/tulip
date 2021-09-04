@@ -41,7 +41,7 @@ LABEL <label>
 JUMP <label>
 
 # Compare reg and mem and jump if it isn't 0
-JUMPIF <label>
+JUMPC <label>
 ```
 
 ## Goals
